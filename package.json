@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "SEE LICENSE IN LICENSE.txt",
   "dependencies": {
     "axios": "^0.16.1",
     "hapi": "^16.3.0"
