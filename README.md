@@ -8,3 +8,4 @@ Finally, the endpoint environment variable `CONNECTOR_REDIRECT` will need to be 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+![Alt text](/docs/heroku_configuration.png?raw=true "Heroku Configuration Screenshot")
