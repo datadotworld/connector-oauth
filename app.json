@@ -1,0 +1,29 @@
+{
+  "name": "data.world One Button Deploy OAuth Connector",
+  "description": "A one button deploy to Heroku application to be used for OAuth purposes",
+  "repository": "https://github.com/dataworld/connector-oauth-heroku",
+  "logo": "",
+  "keywords": ["oauth", "connector"],
+  "env": {
+    "AUTHORIZATION_ENDPOINT": {
+      "description": "The data.world authorization endpoint",
+      "value": "https://data.world"
+    },
+    "CLIENT_ID": {
+      "description": "The data.world client id",
+      "value": "REPLACE_ME"
+    },
+    "CLIENT_SECRET": {
+      "description": "The data.world client secret",
+      "value": "REPLACE_ME"
+    },
+    "REDIRECT_URI": {
+      "description": "The data.world client redirect uri, which should match the location of this server",
+      "value": "REPLACE_ME"     
+    },
+    "CONNECTOR_REDIRECT": {
+      "description": "The location of the connector to redirect to after successful authentication",
+      "value": "http://tableau.data.world"
+    }
+  }
+}
