@@ -1,7 +1,7 @@
 {
   "name": "data.world One Button Deploy OAuth Connector",
   "description": "A one button deploy to Heroku application to be used for OAuth purposes",
-  "repository": "https://github.com/dataworld/connector-oauth-heroku",
+  "repository": "https://github.com/dataworld/connector-oauth",
   "logo": "",
   "keywords": ["oauth", "connector"],
   "env": {
